@@ -1,0 +1,67 @@
+form{
+  width: 100%;
+  /* background-color: #c59e31; */
+}
+label,input{
+  display: inline-block;
+  width: 50%;
+  height: 30px;
+}
+input{
+border-radius: 5px;
+}
+.submit,.UD {
+  background-color: darkgoldenrod;
+  width: 200px;
+  height: 30px;
+ 
+}
+.hide{
+  display: none;
+}
+.ss ,.all{
+  background-color: darkgoldenrod;
+  width: 100px;
+  height: 30px;
+}
+
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+thead {
+  background-color: rgb(241, 188, 52);
+}
+
+th,
+td {
+  border: 1px solid #c59e31;
+  padding: 8px;
+  text-align: left;
+}
+
+.deleteButten {
+  background-color: rgb(228, 72, 72);
+}
+.deleteButten:hover{
+  background-color: rgb(226, 3, 3);
+
+}
+
+.ubdatButten {
+  background-color: rgb(228, 189, 72);
+}
+.ubdatButten:hover{
+  background-color: rgba(129, 94, 7, 0.723);
+}
+
+button {
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  padding: 5px 10px;
+}
